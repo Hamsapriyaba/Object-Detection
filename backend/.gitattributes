@@ -1,2 +1,0 @@
-backend/yolov3.weights filter=lfs diff=lfs merge=lfs -text
-backend/yolov3.weights filter=lfs diff=lfs merge=lfs -text
